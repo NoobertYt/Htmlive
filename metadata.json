@@ -1,0 +1,8 @@
+{
+  "name": "HTMLIVE - Instant HTML Hosting",
+  "description": "The simplest way to host static HTML websites. Just drop your files and get a live link instantly. Perfect for beginners and quick demos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
